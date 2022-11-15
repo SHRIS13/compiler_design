@@ -12,3 +12,4 @@ semester VII performed practicals.
 7) WAP using Lex to solve arithmatic expression.
 8) WAP in C to calculate First and follow for given Grammar rules.
 9) Write a C Program to find the data type.
+[BTCS601_ShristiSisodiya19100BTIT06615.pdf](https://github.com/SHRIS13/compiler_design/files/10014230/BTCS601_ShristiSisodiya19100BTIT06615.pdf)
