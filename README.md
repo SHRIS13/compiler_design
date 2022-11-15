@@ -1,7 +1,7 @@
 # compiler_design
 semester VII performed practicals.
-[BTCS601_ShristiSisodiya19100BTIT06615.pdf](https://github.com/SHRIS13/compiler_design/files/10014230/BTCS601_ShristiSisodiya19100BTIT06615.pdf)
-[BTCS601_ShristiSisodiya19100BTIT06615.docx](https://github.com/SHRIS13/compiler_design/files/10014257/BTCS601_ShristiSisodiya19100BTIT06615.docx)
+pdf:[BTCS601_ShristiSisodiya19100BTIT06615.pdf](https://github.com/SHRIS13/compiler_design/files/10014230/BTCS601_ShristiSisodiya19100BTIT06615.pdf)
+file:[BTCS601_ShristiSisodiya19100BTIT06615.docx](https://github.com/SHRIS13/compiler_design/files/10014257/BTCS601_ShristiSisodiya19100BTIT06615.docx)
 *********************************                            
  COMPILER DESIGN PROGRAMS LIST
 *********************************
